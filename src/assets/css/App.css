@@ -1,0 +1,31 @@
+.navbar {
+    background: aliceblue !important;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.72);
+}
+
+.card-img-top {
+    height: 250px;
+    width: auto;
+    color: rgba(0, 0, 0, 0.22) !important;
+    object-fit: cover;
+}
+
+* {
+    font-weight: 500;
+}
+
+.contact {
+    background-image: url(https://png.pngtree.com/background/20210716/original/pngtree-office-desktop-background-picture-image_1353808.jpg );
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-clip: border-box;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.footer-bottom {
+    padding: 10px;
+    background-color: #333;
+    color: white;
+}
